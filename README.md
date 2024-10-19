@@ -1,4 +1,4 @@
-## ## React weather app ##
+ ## React weather app ##
 
 
 i used https://mui.com/material-ui/ to skip the css / html part, cause the main focus was to practise react.
